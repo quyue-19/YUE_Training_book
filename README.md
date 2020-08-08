@@ -1,10 +1,16 @@
-由[Lulab training book](https://github.com/quyue-19/lulab.github.io)获得灵感，在这里将记录phd期间学习的点点滴滴
-# 🎉 catalog
+Inspired by online lab training book [Lulab](https://github.com/quyue-19/lulab.github.io)，I made my personal one to record experiment learning process.
+
+# 👩‍💻 Training
+* Wet-lab
+* Dry-lab
 
 
-## 🎃 research
-### 1. personal work report
+# 🎉 Research
+* Lab meeting
+  + [work reports](https://cloud.tsinghua.edu.cn/smart-link/cd6ec527-f802-441e-976b-3e7437abb711/)
+* Projects
+  + Glycogen phosporylase
+  + Marrow adipogenic lineage progenitor
 
-> [Group meeting](https://cloud.tsinghua.edu.cn/smart-link/cd6ec527-f802-441e-976b-3e7437abb711/)
-### wet training
+# 🌈 Literature Reading
 
