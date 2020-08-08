@@ -30,7 +30,7 @@ Inspired by online lab training book [Lulab](https://github.com/quyue-19/lulab.g
   * Advanced
     + [Galaxy training](https://training.galaxyproject.org/) - preparation for command line 
     + [Seurat](https://satijalab.org/seurat/) - scRNA-seq analysis
-    + [Monocle] - pseudotime trajectory analysis
+    + [Monocle](http://cole-trapnell-lab.github.io/monocle-release/docs/#abstract) - pseudotime trajectory analysis
     
 * Tools
   + [Free Online Molecular Biology Tools](https://blog.addgene.org/free-online-molecular-biology-tools)
