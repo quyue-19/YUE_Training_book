@@ -1,7 +1,8 @@
-# catalog
+由Lulab training book获得灵感，想把phd期间学习的点点滴滴记录在这里
+# 🎉 catalog
 
 
-## lab meeting records
+##  lab meeting records
 ### 1. personal work report
 
 > [2020/03_Adiponectin function review](https://www.jianguoyun.com/p/DVusJvEQ-eqvCBjSsbID);
@@ -13,3 +14,5 @@
 > [2020/05 The role of bone marrow adipocyte 2](https://www.jianguoyun.com/p/DVnjgjkQ-eqvCBj2sbID);
 
 > [2020/06 The role of bone marrow adipocyte precursor](https://www.jianguoyun.com/p/DXCPfDIQ-eqvCBj4sbID);
+
+### wet training
