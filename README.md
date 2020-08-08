@@ -2,8 +2,12 @@ Inspired by online lab training book [Lulab](https://github.com/quyue-19/lulab.g
 
 # 👩‍💻 Training
 * Wet-lab
+  + 
 * Dry-lab
-
+  + Linux
+    - [鸟哥私房菜](https://cloud.tsinghua.edu.cn/f/6e80f45f90eb4370ba57/)
+* Tools
+  + [Free Online Molecular Biology Tools](https://blog.addgene.org/free-online-molecular-biology-tools)
 
 # 🎉 Research
 * Lab meeting
