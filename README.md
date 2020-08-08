@@ -5,6 +5,6 @@
 ## 🎃 research
 ### 1. personal work report
 
-> [Group meeting](https://cloud.tsinghua.edu.cn/u/d/99e6852e59c74344b06a/)
+> [Group meeting](https://cloud.tsinghua.edu.cn/smart-link/cd6ec527-f802-441e-976b-3e7437abb711/)
 ### wet training
 
