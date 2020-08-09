@@ -56,6 +56,7 @@ Inspired by online training book @ [Lulab](https://github.com/quyue-19/lulab.git
 # 🌈 Literature Reading(2020/08/08)
 * 🌟 Lipid Metabolism - required
   + [articles @ Lilab](https://www.researchgate.net/profile/Peng_Li26/research)
+    - [CIDEA](https://cloud.tsinghua.edu.cn/d/011a821389194bf58ab5/) 
 * GP
   + [to-read list](https://cloud.tsinghua.edu.cn/d/e0856b5ee1814fa396ca/)
 * BMA
