@@ -31,10 +31,12 @@ Inspired by online training book @ [Lulab](https://github.com/quyue-19/lulab.git
        - [runoob_linux](https://www.runoob.com/linux/linux-tutorial.html)
     + Python
       - [Python-100-Days](https://github.com/jackfrued/Python-100-Days/tree/master/Day01-15)
-      - [Python for datascience](https://jakevdp.github.io/PythonDataScienceHandbook/)
+      - [Python for data science](https://jakevdp.github.io/PythonDataScienceHandbook/)
     + R
       - [Basic R for bioinformatics](http://qiubio.com/new/book/chapter-02/#%E7%AC%AC%E4%B8%80%E7%AB%A0-rbioconductor%E5%85%A5%E9%97%A8-chapter-1-introduction-of-r--bioconductor)
-      - [R for datascience](https://r4ds.had.co.nz/)
+      - [R for data science](https://r4ds.had.co.nz/)
+    + Bioinfomatics
+      - [Ngs_learning](https://github.com/menghaowei/ngs_learning#%E7%AC%AC1%E6%AC%A1live%E4%B8%8A%E6%9C%BA%E5%BD%95%E5%83%8F2017-06-26-r%E8%AF%AD%E8%A8%80%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9%E8%A1%A5%E5%85%85)@ menghaowei 
   * Advanced
     + [Galaxy training](https://training.galaxyproject.org/) - preparation for command line 
     + [Seurat](https://satijalab.org/seurat/) - scRNA-seq analysis
