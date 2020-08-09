@@ -53,7 +53,7 @@ Inspired by online training book @ [Lulab](https://github.com/quyue-19/lulab.git
   + Marrow adipogenic lineage progenitor
 
 # 🌈 Literature Reading(2020/08/08)
-* Lipid Metabolism - must read
+* 🌟 Lipid Metabolism - must read
   + [articles @ Lilab](https://www.researchgate.net/profile/Peng_Li26/research)
 * GP
   + [to-read list](https://cloud.tsinghua.edu.cn/d/e0856b5ee1814fa396ca/)
