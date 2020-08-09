@@ -6,7 +6,7 @@ Inspired by online training book @ [Lulab](https://github.com/quyue-19/lulab.git
 # 👩‍💻 Training
 * 🧤 Wet-lab skills
   + daily-5-minutes
-    - [](https://cloud.tsinghua.edu.cn/d/0193f8a41db84138a237/)
+    - [D5M](https://cloud.tsinghua.edu.cn/d/0193f8a41db84138a237/)
   + methods learning
     - [jOVE](https://www.jove.com/) - where I learn how to start a new experiment 
   + textbooks
