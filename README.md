@@ -43,6 +43,7 @@ Inspired by online training book @ [Lulab](https://github.com/quyue-19/lulab.git
     + [Monocle](http://cole-trapnell-lab.github.io/monocle-release/docs/#abstract) - pseudotime trajectory analysis
     
 * Tools
+  + [Server](https://www.jianguoyun.com/p/DaQtmtYQ-eqvCBj9tLID ( 访问密码：960821 ))
   + [Free Online Molecular Biology Tools](https://blog.addgene.org/free-online-molecular-biology-tools)
 
 # 🎉 Research
@@ -53,7 +54,7 @@ Inspired by online training book @ [Lulab](https://github.com/quyue-19/lulab.git
   + Marrow adipogenic lineage progenitor
 
 # 🌈 Literature Reading(2020/08/08)
-* 🌟 Lipid Metabolism - must read
+* 🌟 Lipid Metabolism - required
   + [articles @ Lilab](https://www.researchgate.net/profile/Peng_Li26/research)
 * GP
   + [to-read list](https://cloud.tsinghua.edu.cn/d/e0856b5ee1814fa396ca/)
