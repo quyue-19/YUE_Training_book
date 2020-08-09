@@ -1,7 +1,7 @@
 Inspired by online lab training book [Lulab](https://github.com/quyue-19/lulab.github.io)，I made my personal one to record experiment learning process.
 
 # 👩‍💻 Training
-* Wet-lab
+* 🍄 Wet-lab skills
   + daily-5-minutes
     - [D5M](https://cloud.tsinghua.edu.cn/d/0193f8a41db84138a237/)
   + methods learning
@@ -12,7 +12,7 @@ Inspired by online lab training book [Lulab](https://github.com/quyue-19/lulab.g
     - ITT
     - western blot
 
-* Dry-lab
+* 🌵 Dry-lab skills
   * daily-5-minutes
     - [runze-blog](https://www.jianshu.com/u/ecfc4115cd90)
     - [huanan-blog](https://www.zhihu.com/people/hymanzhaozzzz/posts)
