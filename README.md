@@ -1,18 +1,23 @@
 Inspired by online lab training book [Lulab](https://github.com/quyue-19/lulab.github.io)，I made my personal one to record experiment learning process.
 
 # 👩‍💻 Training
-* 🍄 Wet-lab skills
+* 🧤 Wet-lab skills
   + daily-5-minutes
     - [D5M](https://cloud.tsinghua.edu.cn/d/0193f8a41db84138a237/)
   + methods learning
-    - [jOVE](https://www.jove.com/)
+    - [jOVE](https://www.jove.com/) - where I learn how to start a new experiment 
+  + textbooks
+    - [Janeway_immunology](https://cloud.tsinghua.edu.cn/f/f5ba3e94d3b64cd886e4/) - basic and easy to understand
+    - [Kuby_immunology](https://cloud.tsinghua.edu.cn/f/3e01626076164d19af0c/) - clear molecualr mechanism 
+    - [Lihninger_Biochemistry](https://cloud.tsinghua.edu.cn/f/23d29a95c8e64180a0a3/)
+    
   + Protocol
     - Protein purification
     - GTT
     - ITT
     - western blot
 
-* 🌵 Dry-lab skills
+* 🖥 Dry-lab skills
   * daily-5-minutes
     - [runze-blog](https://www.jianshu.com/u/ecfc4115cd90)
     - [huanan-blog](https://www.zhihu.com/people/hymanzhaozzzz/posts)
@@ -43,7 +48,9 @@ Inspired by online lab training book [Lulab](https://github.com/quyue-19/lulab.g
   + Marrow adipogenic lineage progenitor
 
 # 🌈 Literature Reading(2020/08/08)
+* Lipid Metabolism - must read
+  + [articles @ Lilab](https://www.researchgate.net/profile/Peng_Li26/research)
 * GP
-  - [to-read list](https://cloud.tsinghua.edu.cn/d/e0856b5ee1814fa396ca/)
+  + [to-read list](https://cloud.tsinghua.edu.cn/d/e0856b5ee1814fa396ca/)
 * BMA
-  - [to-read list](https://cloud.tsinghua.edu.cn/d/d984fde638c343a08e8b/)
+  + [to-read list](https://cloud.tsinghua.edu.cn/d/d984fde638c343a08e8b/)
