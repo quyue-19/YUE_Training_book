@@ -1,7 +1,7 @@
 # 🎃 About me
 [YUE](https://www.researchgate.net/profile/Yue_Qu11) @ Tsinghua University
 
-Inspired by online lab training book [Lulab](https://github.com/quyue-19/lulab.github.io)，I made my personal one to record experiment learning process.
+Inspired by online lab training book @ [Lulab](https://github.com/quyue-19/lulab.github.io)，I made my personal one to record experiment learning process.
 
 # 👩‍💻 Training
 * 🧤 Wet-lab skills
