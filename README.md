@@ -49,6 +49,7 @@ Inspired by online training book @ [Lulab](https://github.com/quyue-19/lulab.git
 # 🎉 Research
 * Lab meeting
   + [work reports](https://www.jianguoyun.com/p/DYukShMQ-eqvCBjss7ID ( 访问密码：960821 ))
+  + [recent work](https://cloud.tsinghua.edu.cn/d/c58f404cb5134c4eaffa/)
 * Projects
   + Glycogen phosporylase
   + Marrow adipogenic lineage progenitor
