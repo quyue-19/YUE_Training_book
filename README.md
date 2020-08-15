@@ -63,5 +63,5 @@ Inspired by online training book @ [Lulab](https://github.com/quyue-19/lulab.git
 * BMA
   + [to-read list](https://cloud.tsinghua.edu.cn/d/d984fde638c343a08e8b/)
   
-# 💃 original music
+# 🥳 original music
   + [endless night](https://www.bilibili.com/audio/au1788080?type=1)
