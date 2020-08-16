@@ -37,6 +37,7 @@ Inspired by online training book @ [Lulab](https://github.com/quyue-19/lulab.git
       - [R for data science](https://r4ds.had.co.nz/)
     + Bioinfomatics
       - [Ngs_learning](https://github.com/menghaowei/ngs_learning#%E7%AC%AC1%E6%AC%A1live%E4%B8%8A%E6%9C%BA%E5%BD%95%E5%83%8F2017-06-26-r%E8%AF%AD%E8%A8%80%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9%E8%A1%A5%E5%85%85)@ menghaowei 
+      - [《Bioinformatics Data Skills》by Vince Buffalo](https://github.com/vsbuffalo/bds-files/tree/master/chapter-00-preface)
   * Advanced
     + [Galaxy training](https://training.galaxyproject.org/) - preparation for command line 
     + [Seurat](https://satijalab.org/seurat/) - scRNA-seq analysis
