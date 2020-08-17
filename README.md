@@ -42,6 +42,7 @@ Inspired by online training book @ [Lulab](https://github.com/quyue-19/lulab.git
     + [Galaxy training](https://training.galaxyproject.org/) - preparation for command line 
     + [Seurat](https://satijalab.org/seurat/) - scRNA-seq analysis
     + [Monocle](http://cole-trapnell-lab.github.io/monocle-release/docs/#abstract) - pseudotime trajectory analysis
+      - [monocle blog in chinese](https://www.plob.org/article/20919.html)
     
 * Tools
   + [Server](https://www.jianguoyun.com/p/DaQtmtYQ-eqvCBj9tLID ( 访问密码：960821 ))
