@@ -15,6 +15,7 @@ Inspired by online training book @ [Lulab](https://github.com/quyue-19/lulab.git
     - [Lihninger_Biochemistry](https://cloud.tsinghua.edu.cn/f/23d29a95c8e64180a0a3/)
     
   + Protocol
+    - [DNA_cloning](https://www.addgene.org/mol-bio-reference/cloning/#re)
     - Protein purification
     - GTT
     - ITT
