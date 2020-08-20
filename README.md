@@ -49,7 +49,7 @@ Inspired by online training book @ [Lulab](https://github.com/quyue-19/lulab.git
   + [Server](https://www.jianguoyun.com/p/DaQtmtYQ-eqvCBj9tLID ( 访问密码：960821 ))
   + [Free Online Molecular Biology Tools](https://blog.addgene.org/free-online-molecular-biology-tools)
   + snapgene
-    - [video_tutorial](https://cloud.tsinghua.edu.cn/d/a0c62d37d1f74401a9e8/)
+    - [video_tutorial](https://cloud.tsinghua.edu.cn/d/a0c62d37d1f74401a9e8/) or [@Bilibili](https://www.bilibili.com/video/BV1QQ4y1N7gG?p=1)
     - [Questions](https://cloud.tsinghua.edu.cn/f/233f1b04dbab468b82af/)
     - [Answers](https://1drv.ms/u/s!AibZGUj9frXYgTGDveFkZ7qOQI2U)
 
