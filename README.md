@@ -41,6 +41,7 @@ Inspired by online training book @ [Lulab](https://github.com/quyue-19/lulab.git
       - [《Bioinformatics Data Skills》by Vince Buffalo](https://github.com/vsbuffalo/bds-files/tree/master/chapter-00-preface)
       - [lulab_video](https://lulab1.gitbook.io/training/software/iii.-teaching-materials)
       - [exRNA-seq_tutorial](https://youngleebbs.gitbook.io/bioinfo-training/)
+      - [scripts](https://lulab.github.io/shared_scripts/)
   * Advanced
     + [Galaxy training](https://training.galaxyproject.org/) - preparation for command line 
     + [Seurat](https://satijalab.org/seurat/) - scRNA-seq analysis
