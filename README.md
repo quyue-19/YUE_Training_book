@@ -42,6 +42,7 @@ Inspired by online training book @ [Lulab](https://github.com/quyue-19/lulab.git
       - [lulab_video](https://lulab1.gitbook.io/training/software/iii.-teaching-materials)
       - [exRNA-seq_tutorial](https://youngleebbs.gitbook.io/bioinfo-training/)
       - [scripts](https://lulab.github.io/shared_scripts/)
+      - [lncRNA_tutorial](https://www.coursera.org/learn/sheng-wu-xin-xi-xue/supplement/iRdw1/yue-du-can-kao)
   * Advanced
     + [Galaxy training](https://training.galaxyproject.org/) - preparation for command line 
     + [Seurat](https://satijalab.org/seurat/) - scRNA-seq analysis
