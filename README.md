@@ -49,6 +49,7 @@ Inspired by online training book @ [Lulab](https://github.com/quyue-19/lulab.git
     + [Monocle](http://cole-trapnell-lab.github.io/monocle-release/docs/#abstract) - pseudotime trajectory analysis
       - [monocle blog in chinese](https://www.plob.org/article/20919.html)
     + [FAF-frequently asked format](http://www.genome.ucsc.edu/FAQ/FAQformat.html#format4)
+    + [bioinfbook](http://bioinfbook.org/php/?q=node/156)
     
 * Tools
   + [Server](https://www.jianguoyun.com/p/DaQtmtYQ-eqvCBj9tLID ( 访问密码：960821 ))
